@@ -1,5 +1,6 @@
+Welcome to the stairway to the game development !
 
-### About
+### About 
 
 You have learned how to program in Python. You have followed many tutorials but don't know where to go next. You tried to code your own games but never succeed to finish and release one. You want to go deeper in learning game development but you have no idea how to proceed. *You are in the right place.*
 
